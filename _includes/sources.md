@@ -3,6 +3,4 @@
                 <h2 class="section-heading">References</h2>
                 <hr class="primary">
             </div>
-        </div>
-    </div>
 </section>
