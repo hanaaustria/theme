@@ -2,5 +2,5 @@
           <aside class="bg-dark">
       <div class="container text-center">
           <div class="call-to-action">
-              <h2>Back to the top</h2>
+              <h2>References</h2>
 </section>
