@@ -5,7 +5,7 @@
                 <h2 class="section-heading">What is E-commerce?</h2>
                 <hr class="light">
                 <p class="text-faded">Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!</p>
-                <a href="#sources" class="btn btn-default btn-xl">Get Started!</a>
+                <a href="#sources" class="btn btn-default btn-xl">Jump to the Sources</a>
             </div>
         </div>
     </div>
