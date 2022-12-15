@@ -1,6 +1,10 @@
 <section class="no-padding" id="sources">
-            <div class="col-lg-12 text-center">
-                <h2 class="section-heading">References</h2>
-                 <hr class="light">
+          <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+                <h2 class="section-heading"References</h2>
+                <hr class="light">
             </div>
+        </div>
+      </div>
 </section>
