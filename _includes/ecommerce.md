@@ -16,7 +16,7 @@
                 How does it works?
                 </h3>
                 <p class="text-faded">
-                "insert infoss"
+                "insert infos"
                 </p>
             <br>
                 <h3 class="top-h3"> The 6 Types of E-commerce </h3>
@@ -84,8 +84,9 @@
                 </div>
             </div>
           </div> 
+        <div>
         <div class="container">
-        <div class="col;margin-left:20em;margin-right:20em;">
+        <div class="row;margin-left:20em;margin-right:20em"> 
             <br><br>
                 <h3>
                   Advantages and Disadvantages
