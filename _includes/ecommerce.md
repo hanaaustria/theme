@@ -16,7 +16,7 @@
                 How does it works?
                 </h3>
                 <p class="text-faded">
-                "insert infoss"
+                "insert infos"
                 </p>
             <br>
                 <h3 class="top-h3"> The 6 Types of E-commerce </h3>
@@ -80,10 +80,10 @@
                             C2G E-Commerce refers to the consumer-to-government business model. This type of e-commerce bridges the gap between the citizens and the government. C2G e-commerce makes transactions with the government more accessible and convenient. An example of this is paying electricity bills through e-commerce platforms like G-Cash.
                         </p>
                     </div>
+                     <div class="w-100"><div>
                 </div>
             </div>
           </div> 
-          <div class="w-100"><div>
         <div class="container">
         <div class="row;margin-left:20em;margin-right:20em;">
              <div class="col">
