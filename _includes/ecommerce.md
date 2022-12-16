@@ -79,8 +79,8 @@
                     </div>
                 </div>
             </div>
-             <div class="margin-left:20em;margin-right:20em;">   
-                  <hr>
+        <div class="container">
+        <div class="row;margin-left:20em;margin-right:20em">  
                 <h3>
                     <br>
                     <br/>
