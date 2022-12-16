@@ -10,7 +10,7 @@
             </div>
         </div>
     <div>
-         <div class="container">
+        <div class="container">
         <div class="row;margin-left:20em;margin-right:20em">    
                 <h3>
                 How does it works?
@@ -24,7 +24,8 @@
                 According to Bloomenthal, the types of E-Commerce can be distinguished by the parties that interact through E-Commerce. Each of these has its usage; some are more prominent than others.
             </p>
             </div>
-                <div class="col-lg-8 col-lg-offset-2 text-center;d-flex align-items-center justify-content-center flex-wrap;margin-left:20em;margin-right:20em;">  
+            <div class="container">
+        <div class="row;d-flex align-items-center justify-content-center flex-wrap;margin-left:20em;margin-right:20em;">    
                 <div class="item col-md-3 p-2">
                     <div class="card h-100">
                         <h6> Business to Consumer (B2C) </h6>
