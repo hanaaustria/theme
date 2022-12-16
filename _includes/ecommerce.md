@@ -83,8 +83,9 @@
                 </div>
             </div>
           </div> 
+          <div class="w-100"><div>
         <div class="container">
-        <div class="margin-left:20em;margin-right:20em;col-lg-8 col-lg-offset-2 text-center">
+        <div class="row;margin-left:20em;margin-right:20em;">
             <br><br>
                 <h3>
                   Advantages and Disadvantages
