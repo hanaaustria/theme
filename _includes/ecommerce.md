@@ -17,7 +17,7 @@
                 <p class="text-faded">
                 "insert infos"
                 </p>
-                <h3>
+                <h3 class="bg-primary">
                   Advantages and Disadvantages
                  </h3>
             <ul>
