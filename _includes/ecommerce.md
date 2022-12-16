@@ -95,8 +95,6 @@
                 </div>
                 </div>
             </div>
-          </div> 
-  
         <div>
         <div class="container">
         <div class="row;margin-left:20em;margin-right:20em"> 
