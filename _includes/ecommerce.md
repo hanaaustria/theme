@@ -7,9 +7,11 @@
                 <p class="text-faded">Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!</p>
             </div>
         </div>
-    </div>
-    <div>
-         <div class="bg-primary;col-lg-8 col-lg-offset-2 text-center;margin-left:20em;margin-right:20em;">       
+    </div>                                     
+</section>
+<section class="bg-primary"
+      <div class="container-fluid">
+      <div class="col-lg-8 col-lg-offset-2 text-center;margin-left:20em;margin-right:20em;">       
                 <h3>
                 How does it works?
                 </h3>
@@ -76,6 +78,5 @@
                             "insert infos"
                         </p>
                     </div>
-                </div>                                                
-</section>
-
+                </div> 
+    </section>
