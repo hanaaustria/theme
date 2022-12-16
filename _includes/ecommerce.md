@@ -16,7 +16,7 @@
                 How does it works?
                 </h3>
                 <p class="text-faded">
-                "insert infos"
+                "insert infoss"
                 </p>
             <br>
                 <h3 class="top-h3"> The 6 Types of E-commerce </h3>
@@ -26,7 +26,7 @@
             </div>
             <div class="container">
         <div class="row;">    
-                <div class="col">
+                <div class="col-6 col-sm-4">
                     <div class="card h-100">
                         <h6> Business to Consumer (B2C) </h6>
                         <img src="insert images" alt="">
@@ -35,7 +35,7 @@
                         </p>
                     </div>
                  </div>
-                <div class="col">
+                <div class="col-6 col-sm-4">
                     <div class="card h-100">
                         <h6> Business to Business (B2B) </h6>
                         <img src="insert image" alt="">
@@ -44,7 +44,7 @@
                         </p>
                     </div>
                 </div>
-                <div class="col">
+                <div class="col-6 col-sm-4">
                     <div class="card h-100">
                         <h6> Business to Government (B2G) </h6>
                         <img src="insert image" alt="">
@@ -53,7 +53,7 @@
                         </p>
                     </div>
                 </div>
-                <div class="col">
+                <div class="col-6 col-sm-4">
                     <div class="card h-100">
                         <h6> Consumer to Consumer (C2C) </h6>
                         <img src="insert image" alt="">
@@ -63,7 +63,7 @@
                     </div>
                 </div>
             <div class="w-100"><div>
-                <div class="col">
+                <div class="col-6 col-sm-4">
                     <div class="card h-100">
                         <h6> Consumer to Business (C2B) </h6>
                         <img src="insert image" alt="">
@@ -72,7 +72,7 @@
                         </p>
                     </div>
                 </div>
-                <div class="col">
+                <div class="col-6 col-sm-4">
                     <div class="card h-100">
                         <h6> Consumer to Government (C2G) </h6>
                         <img src="insert image" alt="">
