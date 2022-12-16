@@ -25,7 +25,7 @@
             </p>
             </div>
             <div class="container">
-        <div class="col;d-flex align-items-center justify-content-center flex-wrap;margin-left:20em;margin-right:20em;">    
+        <div class="col;d-flex align-items-center justify-content-center flex-wrap">    
                 <div class="item col-md-3 p-2">
                     <div class="card h-100">
                         <h6> Business to Consumer (B2C) </h6>
