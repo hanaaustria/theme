@@ -15,7 +15,7 @@
                 How does it works?
                 </h3>
                 <p class="text-faded">
-                "insert infos"
+                "insert infoss"
                 </p>
                 <h3 class="bg-primary">
                   Advantages and Disadvantages
