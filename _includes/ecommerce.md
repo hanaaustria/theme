@@ -15,7 +15,7 @@
                 How does it works?
                 </h3>
                 <p class="text-faded">
-                "insert infoss"
+                "insert infos"
                 </p>
             <hr>
                 <h3 class="top-h3"> The 6 Types of E-commerce </h3>
@@ -23,7 +23,7 @@
                 According to Bloomenthal, the types of E-Commerce can be distinguished by the parties that interact through E-Commerce. Each of these has its usage; some are more prominent than others.
             </p>
             </div>
-                <div class="d-flex align-items-center justify-content-center flex-wrap;margin-left:20em;margin-right:20em;">  
+                <div class="col-lg-8 col-lg-offset-2 text-center;d-flex align-items-center justify-content-center flex-wrap;margin-left:20em;margin-right:20em;">  
                 <div class="item col-md-3 p-2">
                     <div class="card h-100">
                         <h6> Business to Consumer (B2C) </h6>
