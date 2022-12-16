@@ -21,10 +21,6 @@
             </div>
              <div class="col-lg-8 col-lg-offset-2 text-center;margin-left:20em;margin-right:20em;">   
                 <h3>
-                    <br>
-                    <br/>
-                    <br>
-                    <br/>
                   Advantages and Disadvantages
                  </h3>
             <ul>
