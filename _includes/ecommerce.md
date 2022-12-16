@@ -7,8 +7,6 @@
                 <p class="text-faded">Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!</p>
                 <img src="insert image" alt="">
                </div>
-            </div>
-        </div>
 <img src="insert image" alt=""> 
         <div class="col-lg-8 col-lg-offset-2 text-center;margin-left:20em;margin-right:20em;">
         <div class="components">
@@ -160,5 +158,7 @@
 </section>
           <div class="col-lg-8 col-lg-offset-2 text-center">
              <a href="#sources" class="btn btn-default btn-xl">Jump to the sources</a>
-          </div>                                                
+          </div>
+            </div>  
+            </div>  
 </section>
