@@ -28,7 +28,7 @@
         <div class="row;">    
                 <div class="col-6 col-sm-4">
                     <div class="card h-100">
-                        <div class="d-inline p-2 bg-dark">
+                        <div class="d-inline p-2 bg-primary">
                         <h4> Business to Consumer (B2C) </h4>
                         <img src="insert images" alt="">
                         <p>
