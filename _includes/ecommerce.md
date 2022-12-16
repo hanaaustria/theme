@@ -36,6 +36,7 @@
                         </p>
                     </div>
                  </div>
+                </div>
                 <div class="col-6 col-sm-4">
                     <div class="card h-100">
                         <div class="d-inline p-2 bg-dark">
@@ -46,6 +47,7 @@
                         </p>
                     </div>
                 </div>
+               </div>
                 <div class="col-6 col-sm-4">
                     <div class="card h-100">
                          <div class="d-inline p-2 bg-dark">
@@ -56,6 +58,7 @@
                         </p>
                     </div>
                 </div>
+               </div>
                 <div class="col-6 col-sm-4">
                     <div class="card h-100">
                          <div class="d-inline p-2 bg-dark">
@@ -66,6 +69,7 @@
                         </p>
                     </div>
                 </div>
+             </div>
             <div class="w-100"><div>
                 <div class="col-6 col-sm-4">
                     <div class="card h-100">
@@ -77,6 +81,7 @@
                         </p>
                     </div>
                 </div>
+                </div>
                 <div class="col-6 col-sm-4">
                     <div class="card h-100">
                          <div class="d-inline p-2 bg-dark">
@@ -85,6 +90,8 @@
                         <p>
                             C2G E-Commerce refers to the consumer-to-government business model. This type of e-commerce bridges the gap between the citizens and the government. C2G e-commerce makes transactions with the government more accessible and convenient. An example of this is paying electricity bills through e-commerce platforms like G-Cash.
                         </p>
+                    </div>
+                    </div>
                     </div>
                      <div class="w-100"><div>
                 </div>
