@@ -28,7 +28,7 @@
         <div class="row;">    
                 <div class="col-6 col-sm-4">
                     <div class="card h-100">
-                        <h6> Business to Consumer (B2C) </h6>
+                        <h4> Business to Consumer (B2C) </h4>
                         <img src="insert images" alt="">
                         <p>
                             The most common type of business model. B2C E-commerce means that the companies sell directly to the end-user. Amazon is an example of B2C as it sells its products on its e-commerce website. Another is through the use of their website, such as Linus Tech Tip’s store.
@@ -37,7 +37,7 @@
                  </div>
                 <div class="col-6 col-sm-4">
                     <div class="card h-100">
-                        <h6> Business to Business (B2B) </h6>
+                        <h4> Business to Business (B2B) </h4>
                         <img src="insert image" alt="">
                         <p>
                             B2B E-commerce is the transaction of businesses to other businesses. An example would be sourcing products from manufacturers to wholesalers, such as selling shoes from a factory to a shop on an online platform. Nike and Adidas have their brand on online platforms such as Amazon may be an example of B2B.
@@ -46,7 +46,7 @@
                 </div>
                 <div class="col-6 col-sm-4">
                     <div class="card h-100">
-                        <h6> Business to Government (B2G) </h6>
+                        <h4> Business to Government (B2G) </h4>
                         <img src="insert image" alt="">
                         <p>
                             B2G E-commerce is the transaction of goods and services through e-commerce to federal, state, and local government bodies. Examples of such services include Mark 43 where one of their works has the optimization of a police cloud data system and Senseware where their service provides a complete IoT Technology Stack (includes devices, communications, protocols, cloud platform, and applications).
@@ -55,7 +55,7 @@
                 </div>
                 <div class="col-6 col-sm-4">
                     <div class="card h-100">
-                        <h6> Consumer to Consumer (C2C) </h6>
+                        <h4> Consumer to Consumer (C2C) </h4>
                         <img src="insert image" alt="">
                         <p>
                             C2C E-commerce refers to consumer-to-consumer transactions. Customers purchase goods from other customers through a third-party platform or business. Some examples of this are through the use of online auction-listing websites and selling applications. Some examples of these are eBay, Mercari, OLX, and Depop.
@@ -65,7 +65,7 @@
             <div class="w-100"><div>
                 <div class="col-6 col-sm-4">
                     <div class="card h-100">
-                        <h6> Consumer to Business (C2B) </h6>
+                        <h4> Consumer to Business (C2B) </h4>
                         <img src="insert image" alt="">
                         <p>
                             C2B E-commerce refers to consumer-to-business transactions. In this e-commerce model, the consumer provides value to the business. Consumers offer products or services to businesses in change for payment or other benefits. This type of E-commerce transaction allows the consumer and the business to have a mutually beneficial relationship. An example of this is an influencer promoting a business by using affiliate links.
@@ -74,7 +74,7 @@
                 </div>
                 <div class="col-6 col-sm-4">
                     <div class="card h-100">
-                        <h6> Consumer to Government (C2G) </h6>
+                        <h4> Consumer to Government (C2G) </h4>
                         <img src="insert image" alt="">
                         <p>
                             C2G E-Commerce refers to the consumer-to-government business model. This type of e-commerce bridges the gap between the citizens and the government. C2G e-commerce makes transactions with the government more accessible and convenient. An example of this is paying electricity bills through e-commerce platforms like G-Cash.
