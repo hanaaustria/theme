@@ -17,8 +17,6 @@
                 <p class="text-faded">
                 "insert infos"
                 </p>
-            </div>
-             <div style="col-lg-8 col-lg-offset-2 text-center;margin-left:20em;margin-right:20em;">   
                 <h3>
                   Advantages and Disadvantages
                  </h3>
