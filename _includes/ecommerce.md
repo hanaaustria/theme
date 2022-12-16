@@ -80,12 +80,8 @@
                 </div>
             </div>
         <div class="container">
-        <div class="row;margin-left:20em;margin-right:20em">  
+        <div class="row;margin-left:20em;margin-right:20em"> 
                 <h3>
-                    <br>
-                    <br/>
-                    <br>
-                    <br/>
                   Advantages and Disadvantages
                  </h3>
             <ul>
