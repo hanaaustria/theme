@@ -16,7 +16,7 @@
                 How does it works?
                 </h3>
                 <p class="text-faded">
-                "insert infos"
+                "insert infoss"
                 </p>
             <br>
                 <h3 class="top-h3"> The 6 Types of E-commerce </h3>
@@ -25,7 +25,7 @@
             </p>
             </div>
             <div class="container">
-        <div class="col;d-flex align-items-center justify-content-center flex-wrap">    
+        <div class="row;">    
                 <div class="item col-md-3 p-2">
                     <div class="card h-100">
                         <h6> Business to Consumer (B2C) </h6>
