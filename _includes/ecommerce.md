@@ -94,8 +94,7 @@
                     </div>
                 </div>
                 </div>
-            </div>
- <body>           
+            </div>          
         <div>
         <div class="container">
         <div class="row;margin-left:20em;margin-right:20em"> 
@@ -176,7 +175,6 @@
                             </p>
                         </li>
                     </ul>
-                  </body> 
                 </div>
             </div>
         </div>
