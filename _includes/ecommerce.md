@@ -76,7 +76,6 @@
                             "insert infos"
                         </p>
                     </div>
-                </div>
-                                                 
+                </div>                                                
 </section>
 
