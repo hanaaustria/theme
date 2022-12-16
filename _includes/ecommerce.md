@@ -38,6 +38,7 @@
                  </div>
                 <div class="col-6 col-sm-4">
                     <div class="card h-100">
+                        <div class="d-inline p-2 bg-dark">
                         <h4> Business to Business (B2B) </h4>
                         <img src="insert image" alt="">
                         <p>
@@ -46,8 +47,8 @@
                     </div>
                 </div>
                 <div class="col-6 col-sm-4">
-                    <div class="d-inline p-2 bg-dark">
                     <div class="card h-100">
+                         <div class="d-inline p-2 bg-dark">
                         <h4> Business to Government (B2G) </h4>
                         <img src="insert image" alt="">
                         <p>
@@ -56,8 +57,8 @@
                     </div>
                 </div>
                 <div class="col-6 col-sm-4">
-                    <div class="d-inline p-2 bg-dark">
                     <div class="card h-100">
+                        <div class="d-inline p-2 bg-dark">
                         <h4> Consumer to Consumer (C2C) </h4>
                         <img src="insert image" alt="">
                         <p>
@@ -77,8 +78,8 @@
                     </div>
                 </div>
                 <div class="col-6 col-sm-4">
-                    <div class="d-inline p-2 bg-dark">
                     <div class="card h-100">
+                        <div class="d-inline p-2 bg-dark">
                         <h4> Consumer to Government (C2G) </h4>
                         <img src="insert image" alt="">
                         <p>
