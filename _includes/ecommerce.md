@@ -16,7 +16,7 @@
                 <p class="text-faded">
                 "insert infos"
                 </p>
-            <hr>
+          
                 <h3 class="top-h3"> The 6 Types of E-commerce </h3>
                 <p class="text-faded">
                 "insert infos"
