@@ -16,7 +16,7 @@
                 How does it works?
                 </h3>
                 <p class="text-faded">
-                "insert infoss"
+                "insert infos"
                 </p>
             <br>
                 <h3 class="top-h3"> The 6 Types of E-commerce </h3>
@@ -28,6 +28,7 @@
         <div class="row;">    
                 <div class="col-6 col-sm-4">
                     <div class="card h-100">
+                        <div class="d-inline p-2 bg-dark">
                         <h4> Business to Consumer (B2C) </h4>
                         <img src="insert images" alt="">
                         <p>
@@ -37,6 +38,7 @@
                  </div>
                 <div class="col-6 col-sm-4">
                     <div class="card h-100">
+                        <div class="d-inline p-2 bg-dark">
                         <h4> Business to Business (B2B) </h4>
                         <img src="insert image" alt="">
                         <p>
@@ -46,6 +48,7 @@
                 </div>
                 <div class="col-6 col-sm-4">
                     <div class="card h-100">
+                         <div class="d-inline p-2 bg-dark">
                         <h4> Business to Government (B2G) </h4>
                         <img src="insert image" alt="">
                         <p>
@@ -55,6 +58,7 @@
                 </div>
                 <div class="col-6 col-sm-4">
                     <div class="card h-100">
+                         <div class="d-inline p-2 bg-dark">
                         <h4> Consumer to Consumer (C2C) </h4>
                         <img src="insert image" alt="">
                         <p>
@@ -65,6 +69,7 @@
             <div class="w-100"><div>
                 <div class="col-6 col-sm-4">
                     <div class="card h-100">
+                         <div class="d-inline p-2 bg-dark">
                         <h4> Consumer to Business (C2B) </h4>
                         <img src="insert image" alt="">
                         <p>
@@ -74,6 +79,7 @@
                 </div>
                 <div class="col-6 col-sm-4">
                     <div class="card h-100">
+                         <div class="d-inline p-2 bg-dark">
                         <h4> Consumer to Government (C2G) </h4>
                         <img src="insert image" alt="">
                         <p>
