@@ -32,7 +32,7 @@
                 According to Bloomenthal, the types of E-Commerce can be distinguished by the parties that interact through E-Commerce. Each of these has its usage; some are more prominent than others.
             </p>
             </div>
-            <div class= "wrap">
+            <div class= "container">
         <div class="row;">    
                 <div class="col-6 col-sm-4">
                     <div class="card h-100">
@@ -48,6 +48,7 @@
                 <div class="col-6 col-sm-4">
                     <div class="card h-100">
                         <div class="d-inline p-2 bg-dark">
+                             <div class="overflow: hidden">
                         <h4> Business to Business (B2B) </h4>
                         <img src="insert image" alt="">
                         <p>
@@ -56,6 +57,7 @@
                     </div>
                 </div>
                </div>
+               </div>     
                 <div class="col-6 col-sm-4">
                     <div class="card h-100">
                          <div class="d-inline p-2 bg-dark">
