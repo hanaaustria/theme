@@ -19,7 +19,7 @@
                 How does it works?
                 </h3>
                 <p class="text-faded">
-                "insert infoss"
+                "insert infos"
                 </p>
             <br>
                 <h3 class="top-h3"> The 6 Types of E-commerce </h3>
@@ -34,7 +34,7 @@
                 <div class="col-6 col-sm-4">
                     <div class="card h-100">
                         <div class="d-inline p-2 bg-dark">
-                            <div style= border-radius:40px>
+                            <div style= "border-radius:40%">
                         <h4> Business to Consumer (B2C) </h4>
                         <img src="insert images" alt="">
                         <p>
