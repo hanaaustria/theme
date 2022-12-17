@@ -27,7 +27,7 @@
                 According to Bloomenthal, the types of E-Commerce can be distinguished by the parties that interact through E-Commerce. Each of these has its usage; some are more prominent than others.
             </p>
             </div>
-            <div id= "B2B" class="container-fluid">
+            <div id= "B2B">
         <div class="row;">    
                 <div class="col-6 col-sm-4">
                     <div class="card h-100">
