@@ -5,7 +5,7 @@
     overflow:hidden
     }
 </style>
-<p id= "wrap" > hehe <p>
+<p id= "wrap" > hehe </p>
 <section class="bg-primary" id="ecommerce">
     <div class="container">
         <div class="row">
