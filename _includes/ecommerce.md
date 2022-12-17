@@ -1,8 +1,11 @@
 <style>
-    .B2C { border-radius: 25px; background:dark; paddling: 20px; width: 200px; height 150 px
+    .wrap { 
+    display:flex; 
+    border-radius: 25px; 
+    overflow:hidden
     }
 </style>
-<p id= "B2C" > hehe <p>
+<p id= "wrap" > hehe <p>
 <section class="bg-primary" id="ecommerce">
     <div class="container">
         <div class="row">
@@ -29,7 +32,7 @@
                 According to Bloomenthal, the types of E-Commerce can be distinguished by the parties that interact through E-Commerce. Each of these has its usage; some are more prominent than others.
             </p>
             </div>
-            <div id= "B2C">
+            <div class= "wrap">
         <div class="row;">    
                 <div class="col-6 col-sm-4">
                     <div class="card h-100">
