@@ -5,16 +5,7 @@
 </style>
  </head> 
  <table style=width:100%>
-    <tr>
-        <th> haha </th>
-        <th> haha </th>
-        <th> haha </th>
-       <tr>
-           <tr>
-        <th> haha </th>
-        <th> haha </th>
-        <th> haha </th>
-       <tr>
+  
 <section class="bg-primary" id="ecommerce">
     <div class="container">
         <div class="row">
@@ -27,6 +18,17 @@
             </div>
         </div>
     <div>
+          <tr>
+        <th> haha </th>
+        <th> haha </th>
+        <th> haha </th>
+       <tr>
+           <tr>
+        <th> haha </th>
+        <th> haha </th>
+        <th> haha </th>
+       <tr>
+           
         <div class="container">
         <div class="row;margin-left:20em;margin-right:20em">    
                 <h3>
