@@ -2,7 +2,7 @@
     #B2C { border-radius: 25px; background:dark; paddling: 20px; width: 200px; height 150 px
     }
 </style>
-
+<p id= B2C> hehe <p>
 <section class="bg-primary" id="ecommerce">
     <div class="container">
         <div class="row">
