@@ -96,7 +96,7 @@
                 </div>
             </div>                                                      
 </section>
-<section>
+<section class="bg-primary"
        <div>
         <div class="container">
         <div class="row;margin-left:30em;margin-right:30em"> 
