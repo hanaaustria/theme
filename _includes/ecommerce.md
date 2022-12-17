@@ -1,11 +1,10 @@
 <style>
-    .wrap { 
+    .hehe { 
     display:flex; 
     border-radius: 25px; 
     overflow:hidden
     }
 </style>
-<p id= "wrap" > hehe </p>
 <section class="bg-primary" id="ecommerce">
     <div class="container">
         <div class="row">
@@ -32,7 +31,7 @@
                 According to Bloomenthal, the types of E-Commerce can be distinguished by the parties that interact through E-Commerce. Each of these has its usage; some are more prominent than others.
             </p>
             </div>
-            <div class= "container">
+            <div class= "hehe">
         <div class="row;">    
                 <div class="col-6 col-sm-4">
                     <div class="card h-100">
@@ -48,7 +47,6 @@
                 <div class="col-6 col-sm-4">
                     <div class="card h-100">
                         <div class="d-inline p-2 bg-dark">
-                             <div class="margin:auto">
                         <h4> Business to Business (B2B) </h4>
                         <img src="insert image" alt="">
                         <p>
@@ -56,8 +54,7 @@
                         </p>
                     </div>
                 </div>
-               </div>
-               </div>     
+               </div>   
                 <div class="col-6 col-sm-4">
                     <div class="card h-100">
                          <div class="d-inline p-2 bg-dark">
