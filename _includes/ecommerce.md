@@ -48,7 +48,7 @@
                 <div class="col-6 col-sm-4">
                     <div class="card h-100">
                         <div class="d-inline p-2 bg-dark">
-                             <div class="overflow: hidden">
+                             <div class="margin:auto">
                         <h4> Business to Business (B2B) </h4>
                         <img src="insert image" alt="">
                         <p>
