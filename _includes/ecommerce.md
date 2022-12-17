@@ -1,6 +1,6 @@
 <style>
-    #B2B{ border-radius: 25px
-<style>
+    #B2B{ border-radius: 25px}
+</style>
 <section class="bg-primary" id="ecommerce">
     <div class="container">
         <div class="row">
