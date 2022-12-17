@@ -100,7 +100,6 @@
        <div>
         <div class="container">
         <div class="row;margin-left:30em;margin-right:30em"> 
-            <br><br>
                 <h3>
                   Advantages and Disadvantages
                  </h3>
