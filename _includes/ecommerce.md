@@ -1,10 +1,20 @@
-<style>
-    .hehe { 
-    display:flex; 
-    border-radius: 25px; 
-    overflow:hidden
-    }
+<head> <style>
+    table,th,td { 
+    border: 1 px solid black:
+    }  
 </style>
+ </head> 
+ <table style=width:100%>
+    <tr>
+        <th> haha </th>
+        <th> haha </th>
+        <th> haha </th>
+       <tr>
+           <tr>
+        <th> haha </th>
+        <th> haha </th>
+        <th> haha </th>
+       <tr>
 <section class="bg-primary" id="ecommerce">
     <div class="container">
         <div class="row">
